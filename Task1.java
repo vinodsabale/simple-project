@@ -5,5 +5,8 @@ class Task1
 	}
 	public static void displayFeature2(){
 	System.out.println("added feature 2");
+  }
+	public static void displayFeature1(){
+	System.out.println("feature1 file added");
 	}
 }
